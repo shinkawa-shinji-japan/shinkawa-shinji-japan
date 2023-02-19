@@ -6,6 +6,19 @@
 
 
 
+## Front End
+I can use (I used)
+* Next.js/React
+* TypeScript/Javascript
+* UI Library(MUI)
+* Other Util Library
+  * ReactQuery
+  * Recoil
+
+
+## Backend
+Express/Nest.js/TypeScript・・・☆☆☆☆
+
 ### Hi there 👋
 
 <!--
