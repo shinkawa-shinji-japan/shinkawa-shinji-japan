@@ -1,3 +1,11 @@
+## Welcome to shimotaroo's GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinkawa-shinji-japan&layout=)](https://github.com/shinkawa-shinji-japan/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinkawa-shinji-japan&show_icons=true&theme=merko)
+
+
+
+
 ### Hi there 👋
 
 <!--
