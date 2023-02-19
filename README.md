@@ -46,7 +46,7 @@ I can use (I used)
 ## Tools
 * VSCode/Postman/MongoDBCompass
 
-## Now I want to use
+## Now I want to use or I am now learning
 ### Frontend
  * Storybook
  * Jest
@@ -54,6 +54,8 @@ I can use (I used)
 
 ### Backend
  * AWS Amplify Figma UI Integration
+ * GraphQL
+ * AWS Serverless
 
 ### Infrastructure
  * AWS services or GCP services
