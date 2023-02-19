@@ -4,20 +4,45 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinkawa-shinji-japan&show_icons=true&theme=merko)
 
 
-
-
 ## Front End
 I can use (I used)
+* Html/Css(SCSS)/Javascript
 * Next.js/React
 * TypeScript/Javascript
 * UI Library(MUI)
 * Other Util Library
   * ReactQuery
   * Recoil
+  * Animation(GSAP/framer-motion)
 
 
 ## Backend
-Express/Nest.js/TypeScript・・・☆☆☆☆
+I can use (I used)
+* Express
+* Nest.js
+* TypeScript/Javascript
+* TypeORM/Sequalize/Mongoose
+* RDS
+  * MySQL
+* NoSQL
+  * MongoDB
+
+## Infrastructure
+I can use (I used)
+* ロリポップ/XServer/お名前ドットコム → 静的ホスティング用
+* Vercel
+* Firebase
+  * Authentication/Firestore/Function/Analytics
+* AWS
+  * S3/Cloudront/Lambda/Amplify/ECS(Fargate)/ECR/EC2/ELB/EBS/VPC/Cloudwatch/CDK/Codecommit/WAF etc
+* GCP
+ * APP Engine
+
+## Other
+* docker/docker-compose etc
+
+## Tools
+* VSCode/Postman/MongoDBCompass etc
 
 ### Hi there 👋
 
