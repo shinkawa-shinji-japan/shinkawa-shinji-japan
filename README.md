@@ -6,9 +6,9 @@
 
 ## Front End
 I can use (I used)
-* Html/Css(SCSS)/Javascript
+* HTML/CSS(SCSS)/JavaScript
 * Next.js/React
-* TypeScript/Javascript
+* TypeScript
 * UI Library(MUI)
 * Other Util Library
   * ReactQuery
