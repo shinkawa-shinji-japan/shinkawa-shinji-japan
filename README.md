@@ -30,7 +30,7 @@ I can use (I used)
 
 ## Infrastructure
 I can use (I used)
-* ロリポップ/XServer/お名前ドットコム → 静的ホスティング用
+* ロリポップ/XServer/お名前ドットコム
 * Vercel
 * Firebase
   * Authentication/Firestore/Function/Analytics
