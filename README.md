@@ -10,6 +10,7 @@ I can use (I used)
 * Next.js/React
 * TypeScript
 * UI Library(MUI)
+* Jest
 * Other Util Library
   * ReactQuery
   * Recoil
