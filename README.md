@@ -46,17 +46,17 @@ I can use (I used)
 ## Tools
 * VSCode/Postman/MongoDBCompass
 
-## I want to use
+## Now I want to use
 ### Frontend
  * Storybook
  * Jest
+ * E2E Test tool
 
 ### Backend
  * AWS Amplify Figma UI Integration
 
 ### Infrastructure
- * serverless/cloudwatch/lambda/slackalert
-
+ * AWS services or GCP services
 
 
 <!-- ### Hi there 👋 -->
