@@ -35,17 +35,31 @@ I can use (I used)
 * Firebase
   * Authentication/Firestore/Function/Analytics
 * AWS
-  * S3/Cloudront/Lambda/Amplify/ECS(Fargate)/ECR/EC2/ELB/EBS/VPC/Cloudwatch/CDK/Codecommit/WAF etc
+  * S3/Cloudront/Lambda/Amplify/ECS(Fargate)/ECR/EC2/ELB/EBS/VPC/Cloudwatch/CDK/Codecommit/WAF
 * GCP
  * APP Engine
 
 ## Other
-* docker/docker-compose etc
+* docker/docker-compose
+* microcms/newt/wordpress
 
 ## Tools
-* VSCode/Postman/MongoDBCompass etc
+* VSCode/Postman/MongoDBCompass
 
-### Hi there 👋
+## I want to use
+### Frontend
+ * Storybook
+ * Jest
+
+### Backend
+ * AWS Amplify Figma UI Integration
+
+### Infrastructure
+ * serverless/cloudwatch/lambda/slackalert
+
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **shinkawa-shinji-japan/shinkawa-shinji-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
