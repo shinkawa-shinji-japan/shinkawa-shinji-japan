@@ -4,7 +4,8 @@ This is the GitHub profile of Shinkawa, a full-stack developer with experience i
 I have been working as an engineer since 2021 and am now in my fifth year of experience.
 I have five years of experience so far.
 
-## Front End
+## Web Development
+### Front End
 * HTML/CSS(SCSS)/JavaScript/TypeScript
 * React/Next.js
 * UI Library(MUI)
@@ -19,7 +20,7 @@ I have five years of experience so far.
   * Animation(GSAP/framer-motion)
   * Ant Design
 
-## Backend
+### Backend
 * Express/Nest.js/TypeScript/Javascript
 * TypeORM/Sequalize/Mongoose
 * RDS
@@ -27,8 +28,7 @@ I have five years of experience so far.
 * NoSQL
   * MongoDB
 
-## Infrastructure
-* ロリポップ/XServer/お名前ドットコム
+### Infrastructure
 * Vercel
 * Firebase
   * Authentication/Firestore/Function/Analytics
@@ -37,13 +37,21 @@ I have five years of experience so far.
 * GCP
  * APP Engine/API Libraries
 
-## Other
+### Other
 * docker/docker-compose
-* microcms/newt/wordpress
+* microcms/newt
+
+## Web Production
+* ロリポップ
+* XServer
+* お名前ドットコム
+* WordPress
+* GSAP などのアニメーションライブラリ
+* BEM設計/FLOCSS設計
 
 ## Tools
 * VSCode/Postman/MongoDBCompass
 
-My development environment is GitHub Copilot, VSCode.
+My development environment is VSCode, GitHub Copilot.
 
 My hobbies are electronics projects and making things with a 3D printer.
