@@ -1,27 +1,23 @@
 ## Welcome to Shinkawa's GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinkawa-shinji-japan&layout=)](https://github.com/shinkawa-shinji-japan/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinkawa-shinji-japan&show_icons=true&theme=merko)
-
+This is the GitHub profile of Shinkawa, a full-stack developer with experience in front-end, back-end, and infrastructure technologies. Below is a summary of the technologies and tools I have worked with:
 
 ## Front End
-I can use (I used)
-* HTML/CSS(SCSS)/JavaScript
-* Next.js/React
-* TypeScript
+* HTML/CSS(SCSS)/JavaScript/TypeScript
+* React/Next.js
 * UI Library(MUI)
+* Styled Components
 * Jest
-* Other Util Library
-  * ReactQuery
+* Storybook
+* VRT
+* Other Library
+  * Tanstack Query
+  * React Hook Form
   * Recoil
   * Animation(GSAP/framer-motion)
-
+  * Ant Design
 
 ## Backend
-I can use (I used)
-* Express
-* Nest.js
-* TypeScript/Javascript
+* Express/Nest.js/TypeScript/Javascript
 * TypeORM/Sequalize/Mongoose
 * RDS
   * MySQL
@@ -29,7 +25,6 @@ I can use (I used)
   * MongoDB
 
 ## Infrastructure
-I can use (I used)
 * ロリポップ/XServer/お名前ドットコム
 * Vercel
 * Firebase
@@ -37,7 +32,7 @@ I can use (I used)
 * AWS
   * S3/Cloudront/Lambda/Amplify/ECS(Fargate)/ECR/EC2/ELB/EBS/VPC/Cloudwatch/CDK/Codecommit/WAF
 * GCP
- * APP Engine
+ * APP Engine/API Libraries
 
 ## Other
 * docker/docker-compose
@@ -45,35 +40,3 @@ I can use (I used)
 
 ## Tools
 * VSCode/Postman/MongoDBCompass
-
-## Now I want to use or I am now learning
-### Frontend
- * Storybook
- * Jest
- * E2E Test tool
-
-### Backend
- * AWS Amplify Figma UI Integration
- * GraphQL
- * AWS Serverless
-
-### Infrastructure
- * AWS services or GCP services
-
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**shinkawa-shinji-japan/shinkawa-shinji-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
