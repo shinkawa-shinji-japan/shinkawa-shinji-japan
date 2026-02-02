@@ -1,6 +1,9 @@
 ## Welcome to Shinkawa's GitHub
 This is the GitHub profile of Shinkawa, a full-stack developer with experience in front-end, back-end, and infrastructure technologies. Below is a summary of the technologies and tools I have worked with:
 
+I have been working as an engineer since 2021 and am now in my fifth year of experience.
+I have five years of experience so far.
+
 ## Front End
 * HTML/CSS(SCSS)/JavaScript/TypeScript
 * React/Next.js
@@ -40,3 +43,7 @@ This is the GitHub profile of Shinkawa, a full-stack developer with experience i
 
 ## Tools
 * VSCode/Postman/MongoDBCompass
+
+My development environment is GitHub Copilot, VSCode.
+
+My hobbies are electronics projects and making things with a 3D printer.
